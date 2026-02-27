@@ -325,6 +325,10 @@ span {
 }
 
 
+.hidden {
+    display: none;
+}
+
 @media (hover: none) {
     .badge {
         opacity: 1 !important;
